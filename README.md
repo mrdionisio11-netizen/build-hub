@@ -4,7 +4,7 @@ Un rincón digital donde conviven proyectos de trabajo, ideas personales y exper
 
 Este repositorio contiene diferentes áreas de desarrollo organizadas por tipo de proyecto:
 
-## 📱 Android Lab
+## 📱 Android 
 
 Proyectos de desarrollo móvil y experimentos en Android.
 
